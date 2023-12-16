@@ -1,0 +1,1 @@
+maybe i should use ffmpeg in a dockerfile 
